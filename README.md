@@ -47,7 +47,7 @@ Edit
 plaintext
 Copy
 Edit
-GET /api/get_merits_demerits/<food_item>
+GET https://foodapi-w4h3.onrender.com/api/get_merits_demerits/<food_item>
 📌 Description:
 
 Returns the health benefits (merits) and risks (demerits) of a food item.
@@ -80,7 +80,7 @@ Edit
 plaintext
 Copy
 Edit
-POST /api/get_reply
+POST https://foodapi-w4h3.onrender.com/api/get_reply
 📌 Description:
 
 Generates a short AI-powered reply based on:
@@ -111,7 +111,7 @@ Edit
 plaintext
 Copy
 Edit
-POST /api/get_suggestions
+POST https://foodapi-w4h3.onrender.com/api/get_suggestions
 📌 Description:
 
 Suggests 5 food items based on:
